@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Lexend:wght@100..900&display=swap');
+@import "tailwindcss";
+
+/* Global dark theme */
+:root {
+  color-scheme: dark;
+  --bg-main: #1c1c1d;   /* 👈 custom CSS var if you want reuse */
+}
+
+html, body, #root {
+  height: 100%;
+  font-family: 'Electrolize', sans-serif;
+  background-color: var(--bg-main);  /* 👈 applies everywhere */
+}
+
+p {
+  font-family: 'Lexend', sans-serif;
+}
+
+* { @apply antialiased; }
+
+a { @apply underline-offset-2 decoration-slate-500 hover:decoration-slate-200; }
+

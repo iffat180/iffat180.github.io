@@ -1,0 +1,13 @@
+export default {
+  slug: "beyond-code-raspberry-pi",
+  date: "February 9, 2024",
+  title: "Beyond Code: Raspberry Pi as a Gateway to Hardware Innovation",
+  excerpt: "Raspberry Pi bridges the gap between software and hardware, turning code into real-world interaction.",
+  html: `
+    <p>Being a software engineer, I’ve realized that knowing a little more about hardware gives me a serious edge. Writing code is one thing, but when that code interacts with the physical world through sensors, motors, and devices, it suddenly feels much more real. This is where Raspberry Pi comes in. At first glance, it’s just a small single-board computer about the size of a credit card. But underneath, it’s a full-fledged system that can run an operating system, connect to the internet, and interact with external hardware. For me, it represents a bridge between software and hardware, the exact point where programming stops being just text on a screen and starts making things move, blink, sense, or respond. That’s not something every software engineer gets to play with, which makes it even more valuable.</p>
+
+    <p>The power of Raspberry Pi really comes through when you dive into its GPIO pins, the little connectors that allow you to attach sensors, cameras, motors, or LEDs. I’ve always loved the fact that with just a few lines of Python, you can make lights flash, detect motion, or even control a robotic arm. It makes abstract programming concepts feel hands-on, like you’re literally coding the world around you. And that’s the sort of experience that changes the way you think about problem-solving. Instead of just algorithms and data structures, you’re also thinking about timing, signals, and physical limitations. For engineers, that’s an entirely different layer of creativity.</p>
+
+    <p>A project I came across recently really highlighted this for me. A group of friends I know were working with a company to build a robot that interacts with what’s happening inside a cinema. As a movie plays, the robot is triggered to move or respond based on the scenes, creating an immersive experience for the audience. At the heart of it was a Raspberry Pi, orchestrating all the inputs and outputs: reading signals, processing triggers, and controlling motors. It struck me how versatile the Pi is, a device most people use for small hobby projects was being applied in a professional setup to blend storytelling with automation. Seeing that made me realize why Raspberry Pi deserves a place in my portfolio blog. It shows that as a software engineer, I’m not just limited to code, I understand how that code can control and shape hardware systems too. And in today’s tech world, that mix is where some of the most exciting innovations come from.</p>
+  `,
+};
