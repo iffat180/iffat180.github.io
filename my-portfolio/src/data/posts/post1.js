@@ -1,0 +1,13 @@
+export default {
+  slug: "rigging-in-blender",
+  date: "March 14, 2021",
+  title: "Rigging in Blender: Bringing 3D Models to Life",
+  excerpt: "How rigging turns static 3D models into living, moving creations in Blender.",
+  html: `
+    <p>Blender is one of those tools that feels like a treasure chest, you open it up and suddenly realize you can do almost anything in 3D, from modeling and sculpting to rendering and animation. But the real magic happens when you get to rigging. Rigging is basically giving your model a skeleton so it can actually move. Without it, your character is just a beautifully crafted statue; with it, that same character can walk, wave, or even pull off a dramatic backflip. The first time I tried rigging, I remember thinking, “Okay, this is where my model finally comes alive.” It’s both exciting and slightly intimidating, but once you get the hang of it, it completely changes how you look at 3D creation.</p>
+
+    <p>Now, let’s be real, rigging can get tricky. You’re dealing with bones, weight painting, constraints, and all these settings that sound like they belong in a physics class. But Blender makes the whole process a lot smoother with some built-in helpers and add-ons. For example, Rigify is an absolute lifesaver if you’re starting out. Instead of building a skeleton from scratch, you can just generate a pre-made rig, adjust it to your character, and you suddenly have IK controls, FK controls, and all sorts of animator-friendly features. If you want to go deeper, Auto-Rig Pro is a paid option that’s popular with professionals, and for quick results there’s even Mixamo, where you upload your model and get it rigged (plus animated) in minutes. These tools make rigging less about struggling with technical details and more about having fun bringing your characters to life.</p>
+
+    <p>What I love most about rigging is how it transforms your workflow. You go from staring at a still image to interacting with something that moves, breathes, and reacts. It’s like flipping a switch from “art” to “performance.” Sure, you’ll run into challenges like a knee bending the wrong way or a shoulder looking weird, but that’s part of the learning curve, and every fix teaches you something new. Once you see your model strike its first pose or run through its first animation, all those little struggles feel worth it. And the best part? Blender gives you the freedom to decide how complex you want your rig to be. You can start simple, experiment with tools like Rigify, and gradually move into advanced techniques. Either way, rigging is the key step that makes your creations feel alive, and it’s honestly one of the most rewarding parts of the entire 3D process.</p>
+  `,
+};
