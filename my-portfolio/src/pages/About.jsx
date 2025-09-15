@@ -11,7 +11,7 @@ export default function About() {
         </p>
       </div>
       
-        <div className="flex flex-col md:flex-row gap-6 items-start">
+        <div className="flex flex-col-reverse md:flex-row gap-6 items-start">
           <div className="flex-1">
             <p className="leading-7 text-gray-300">
               Hi! I’m Iffat Mohamed Ayub, a <strong>full-stack web developer</strong> focused on the
@@ -39,7 +39,7 @@ export default function About() {
           <img
             src={iffat}
             alt="Iffat Mohamed Ayub"
-            className="w-50 h-50 rounded-sm object-cover ring-1 ring-white/10 hidden md:block"
+            className="w-60 h-60 md:w-52 md:h-52 mx-auto rounded-sm object-cover ring-1 ring-white/10"
           />
         </div>
       
