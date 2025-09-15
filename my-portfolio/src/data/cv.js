@@ -49,7 +49,7 @@ export const cv = {
   ],
 
   skills: {
-    programming: ["JavaScript", "TypeScript", "Python", "SQL"],
+    programming: ["JavaScript", "Python", "SQL"],
     frontend: ["React", "Vite", "Tailwind CSS"],
     backend: ["Node.js", "Express", "REST APIs", "JWT", "Mongoose"],
     db: ["MongoDB", "PostgreSQL (basic)"],
