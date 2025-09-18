@@ -14,7 +14,7 @@ export const projects = [
     name: "Cocktail Menu App - Frontend",
     desc: "Cocktail menu app bulit on React with interactive GSAP-powered animations",
     stack: ["React", "GSAP", "Tailwind CSS"],
-    link: "https://cocktail-app-frontend-5pkz3sfcs-iffat180s-projects.vercel.app",
+    link: "https://cocktail-app-frontend-azure.vercel.app/",
     img: cocktail
   }
 ];
