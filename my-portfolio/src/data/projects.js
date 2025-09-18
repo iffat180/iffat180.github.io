@@ -1,5 +1,6 @@
 
 import car from "../assets/projects/carental.jpg";
+import cocktail from "../assets/projects/cocktail.png";
 
 export const projects = [
   {
@@ -10,10 +11,10 @@ export const projects = [
     img: car
   },
   {
-    name: "Cocktail Menu App",
-    desc: "Description for project 2.",
+    name: "Cocktail Menu App - Frontend",
+    desc: "Cocktail menu app bulit on React with interactive GSAP-powered animations",
     stack: ["React", "GSAP", "Tailwind CSS"],
     link: "https://cocktail-app-frontend-5pkz3sfcs-iffat180s-projects.vercel.app",
-    // img: "path/to/image2.jpg"
+    img: cocktail
   }
 ];
