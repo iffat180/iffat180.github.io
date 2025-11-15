@@ -14,25 +14,23 @@ export default function About() {
         <div className="flex flex-col-reverse md:flex-row gap-6 items-start">
           <div className="flex-1">
             <p className="leading-7 text-gray-300">
-              Hi! I’m Iffat Mohamed Ayub, a <strong>full-stack web developer</strong> focused on the
-              <strong> MERN stack</strong> — React, Node.js, Express, Tailwind CSS, and MongoDB. I like
-              building clean, responsive UIs and pairing them with simple, well-structured REST APIs.
+              Hi! I’m Iffat Mohamed Ayub, a <strong>Frontend-Focused Full-Stack Developer</strong> who enjoys creating applications where beautiful interfaces meet practical AI features. I like working on projects end-to-end; shaping lively, interactive frontends then connecting them to solid backends.
             </p>
 
-            <p className="leading-7 text-gray-300 mt-3">
+            {/* <p className="leading-7 text-gray-300 mt-3">
               I enjoy taking projects end-to-end: React + Tailwind on the front-end, Express routes and
               controllers on the back-end, and MongoDB for data models. My goals are maintainable code,
               fast feedback, and a smooth user experience.
-            </p>
+            </p> */}
 
             <p className="leading-7 text-gray-300 mt-3">
-              Outside of coding, I explore 3D modeling in <strong>Blender</strong>.
+              Outside of coding, I spend time exploring <strong>3D modeling in Blender</strong>, bringing the same curiosity for design and detail into the creative space.
             </p>
 
             <ul className="mt-4 list-disc pl-5 text-gray-400 space-y-1">
-              <li>Frontend: React (Vite) + Tailwind CSS</li>
-              <li>Backend: Node.js + Express (REST)</li>
-              <li>Database: MongoDB (Mongoose)</li>
+              <li>Frontend: React (Next.js, Vite) · Tailwind CSS · GSAP · Shadcn UI</li>
+              <li>Backend: Node.js · Express · REST APIs · Convex · Authentication (Clerk, JWT)</li>
+              <li>Database: MongoDB (Mongoose) · PostgreSQL · Firebase</li>
             </ul>
           </div>
 
