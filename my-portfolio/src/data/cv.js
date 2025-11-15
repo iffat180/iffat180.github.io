@@ -45,14 +45,22 @@ export const cv = {
       link: "https://car-rental-nu-rouge.vercel.app",
       desc: "Buy/sell listings, saved searches, chat, image upload, and auth.",
       tech: ["Vite", "React", "Node", "MongoDB"],
-    }
+    },
   ],
 
   skills: {
     programming: ["JavaScript", "Python", "SQL"],
-    frontend: ["React", "Vite", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "REST APIs", "JWT", "Mongoose"],
+    frontend: ["React", "Next.js", "Vite", "Tailwind CSS", "GSAP", "Shadcn UI"],
+    backend: [
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "JWT",
+      "Mongoose",
+      "Convex",
+      "Zod",
+    ],
     db: ["MongoDB", "PostgreSQL (basic)"],
-    tools: ["Git/GitHub", "VS Code", "Blender"],
+    tools: ["Git/GitHub", "VS Code", "WebStorm", "Blender", "Clerk"],
   },
 };
